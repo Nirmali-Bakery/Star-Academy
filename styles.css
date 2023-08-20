@@ -1,0 +1,25 @@
+/*.product {
+  background-image: url(./images/books\ on\ left.jpeg);
+}
+
+*/
+
+h2 {
+  margin-left: 5%;
+}
+
+.block {
+  display: inline-block;
+}
+
+.mark {
+  font-weight: bold;
+}
+.col {
+  text-align: center;
+}
+
+.only-mark {
+  color: whitesmoke;
+  background-color: green;
+}
